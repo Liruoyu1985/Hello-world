@@ -1,2 +1,3 @@
 # Hello-world
-Just another repository
+Hi this is my first github learn record.
+I was first programming
